@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jeffrey Efosa
+My name is Jeffrey Efosa Okooboh
 ===================================
 
-Full Stack Engineer
+Senior Software Engineer
 -------------------
 
-I am a Fullstack engineer with 3+ years of experience in Full Stack Development. I use Javascript/Typescript technologies in my day-to-day work.
+Result-oriented full-stack developer skilled in creating high-performing, user-focused websites using modern web technologies. Collaborative team player with strong communication skills, eager to learn and adapt to evolving technical environments.
 
 * 🌍  Nigeria
 * ✉️  Send me an email [okoobohefosa@gmail.com](mailto:okoobohefosa@gmail.com)
@@ -45,8 +45,3 @@ src="https://img.shields.io/twitter/follow/efosa_j?logo=twitter&style=for-the-ba
 <a href="https://hashnode.com/@fosajeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fosajeff" height="30" width="40" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fosajeff"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fosajeff&stroke=ffffff&background=555&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
