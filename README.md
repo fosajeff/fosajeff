@@ -43,10 +43,10 @@ src="https://img.shields.io/twitter/follow/efosa_j?logo=twitter&style=for-the-ba
 ### Socials
 
 <p align="left">
-<a href="https://twitter.com/efosa_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efosa_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeffrey-okooboh-091a47191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-okooboh-091a47191" height="30" width="40" /></a>
-<a href="https://fb.com/efosa.jeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efosa.jeff" height="30" width="40" /></a>
-<a href="https://instagram.com/fosajeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fosajeffrey" height="30" width="40" /></a>
+<a href="https://twitter.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efosa_j" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-okooboh-091a47191" height="30" width="40" /></a>
+<a href="https://fb.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efosa.jeff" height="30" width="40" /></a>
+<a href="https://instagram.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fosajeffrey" height="30" width="40" /></a>
 <a href="https://hashnode.com/@fosajeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fosajeff" height="30" width="40" /></a>
 </p>
 
