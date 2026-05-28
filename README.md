@@ -25,7 +25,7 @@ Result-oriented full-stack developer skilled in creating high-performing, user-f
 
 * 🌍  Nigeria
 * ✉️  Send me an email [okoobohefosa@gmail.com](mailto:okoobohefosa@gmail.com)
-* 🔗  Visit <a href="https://fosajeff.netlify.app/">my website</a>
+* 🔗  Visit <a href="https://jeffrey.fosatech.com">my website</a>
 
 <!-- <a href="https://www.twitter.com/Successsoi1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/efosa_j?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
