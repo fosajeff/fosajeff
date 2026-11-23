@@ -1,52 +1,36 @@
-### Hi there 👋
+### Hi there 👋 I'm Jeffrey (Efosa) Okooboh
 
-<!--
-**fosajeff/fosajeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Engineer** · former Technical Product Manager · mentorship, career & growth 📈
 
-Here are some ideas to get you started:
+I decide what's worth building, then build it, ship it and keep it running.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career has moved between product and engineering: some days I was managing, other days I was deploying code. I started as a full-stack engineer, led my first team, spent two years as a Technical Product Manager, then moved back into engineering to build what I'd been specifying. Most recently I owned an e-commerce platform serving **100,000+ users a month**, end to end: product decisions, architecture, deploys and incidents.
 
-My name is Jeffrey Efosa Okooboh
-===================================
+- 🧭 **How I work:** ownership from requirements to deployment, fast learning, honest trade-offs when time is tight
+- ✍️ **I write about:** engineering and the non-technical side of building: team management, trade-offs, choosing technology or talent for where a company is going
+- 🤖 **Fun fact:** Claude Code Max user 😀
+- 🌍 Lagos, Nigeria · open to remote roles worldwide
 
-Senior Software Engineer
--------------------
+### 📝 Latest writing
 
-Result-oriented full-stack developer skilled in creating high-performing, user-focused websites and app using modern web and mobile app technologies. Collaborative team player with strong communication skills, eager to learn and adapt to evolving technical environments.
+- [Fixing production issues on a cool morning]([Website](https://jeffreyoefosa.netlify.app/blog/the-morning-our-app-launch-broke-postgres/)) — what a sale-day outage taught me about connection pools
 
-* 🌍  Nigeria
-* ✉️  Send me an email [okoobohefosa@gmail.com](mailto:okoobohefosa@gmail.com)
-* 🔗  Visit <a href="https://jeffrey.fosatech.com">my website</a>
-
-<!-- <a href="https://www.twitter.com/Successsoi1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/efosa_j?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a> -->
-
-### Skills
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40" />
-</a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-### Socials
+### 🛠️ Tools I use
 
 <p align="left">
-<a href="https://twitter.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efosa_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrey-okooboh-091a47191" height="30" width="40" /></a>
-<a href="https://fb.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efosa.jeff" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffreyoefosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fosajeffrey" height="30" width="40" /></a>
-<a href="https://hashnode.com/@fosajeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fosajeff" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,nextjs,nestjs,nodejs,express,django,postgres,firebase,tailwind,redux,docker,githubactions,aws,gcp,jest,linux&perline=10" alt="TypeScript, JavaScript, Python, Go, React, Next.js, NestJS, Node.js, Express, Django, PostgreSQL, Firebase, Tailwind, Redux, Docker, GitHub Actions, AWS, GCP, Jest, Linux" />
 </p>
 
+Also: React Native, Expo, PgBouncer, DigitalOcean, Detox, Postman.
+
+### 📫 Reach me
+
+<p align="left">
+  <a href="mailto:okoobohefosa@gmail.com"><img src="https://img.shields.io/badge/Email-okoobohefosa%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jeffreyoefosa/"><img src="https://img.shields.io/badge/LinkedIn-jeffreyoefosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="jeffreyoefosa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-jeffrey.fosatech.com-1c1917?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hashnode.com/@fosajeff"><img src="https://img.shields.io/badge/Hashnode-@fosajeff-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="https://twitter.com/jeffreyoefosa"><img src="https://img.shields.io/badge/X-@jeffreyoefosa-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+Happy to chat about roles, collaboration or mentorship. 🙌
