@@ -13,7 +13,7 @@ My career has moved between product and engineering: some days I was managing, o
 
 ### 📝 Latest writing
 
-- [Fixing production issues on a cool morning]([Website](https://jeffreyoefosa.netlify.app/blog/the-morning-our-app-launch-broke-postgres/)) — what a sale-day outage taught me about connection pools
+- [Fixing production issues on a cool morning](https://jeffreyoefosa.netlify.app/blog/the-morning-our-app-launch-broke-postgres/) — what a sale-day outage taught me about connection pools
 
 ### 🛠️ Tools I use
 
